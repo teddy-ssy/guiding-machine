@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">博&amp;导</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="firstfloor">第一层</string>
+    <string name="secondfloor">第二层</string>
+    <string name="thirdfloor">第三层</string>
+    <string name="bfloor">B层</string>
+
+</resources>

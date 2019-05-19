@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<music>
+    <song>
+        <id>1</id>    
+        <title>清明上河图</title>
+        <artist>风俗画（北宋）</artist>
+        <duration></duration>
+		<thumb_url>source/picture/adele.png</thumb_url>
+    </song>
+	<song>
+        <id>2</id>    
+        <title>大禹治水图玉山</title>
+        <artist>玉雕（清.乾隆）</artist>
+        <duration></duration>
+		<thumb_url>source/picture/eminem.png</thumb_url>
+    </song>
+	<song>
+        <id>3</id>    
+        <title>“大圣遗音”琴</title>
+        <artist>古琴（唐）</artist>
+        <duration></duration>
+		<thumb_url>source/picture/mj.png</thumb_url>
+    </song>
+	<song>
+        <id>4</id>    
+        <title>青花釉里红镂雕盖罐</title>
+        <artist>青花瓷（元）</artist>
+        <duration></duration>
+		<thumb_url>source/picture/rihanna.png</thumb_url>
+    </song>
+	<song>
+        <id>5</id>    
+        <title>德化窑达摩立像</title>
+        <artist>佛像（明）</artist>
+        <duration></duration>
+		<thumb_url>source/picture/arrehman.png</thumb_url>
+    </song>
+<!--  <song>
+        <id>6</id>    
+        <title>All My Days</title>
+        <artist>Alexi Murdoch</artist>
+        <duration>4:47</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/alexi_murdoch.png</thumb_url>
+    </song>
+	<song>
+        <id>7</id>    
+        <title>Life For Rent</title>
+        <artist>Dido</artist>
+        <duration>3:41</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/dido.png</thumb_url>
+    </song>
+	<song>
+        <id>8</id>    
+        <title>Love To See You Cry</title>
+        <artist>Enrique Iglesias</artist>
+        <duration>4:07</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/enrique.png</thumb_url>
+    </song>	
+	<song>
+        <id>9</id>    
+        <title>The Good, The Bad And The Ugly</title>
+        <artist>Ennio Morricone</artist>
+        <duration>2:42</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/ennio.png</thumb_url>
+    </song>
+	<song>
+        <id>10</id>    
+        <title>Show me the meaning</title>
+        <artist>Backstreet Boys</artist>
+        <duration>3:56</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/backstreet_boys.png</thumb_url>
+    </song>
+	<song>
+        <id>11</id>    
+        <title>Someone Like You</title>
+        <artist>Adele</artist>
+        <duration>4:47</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/adele.png</thumb_url>
+    </song>
+	<song>
+        <id>12</id>    
+        <title>Space Bound</title>
+        <artist>Eminem</artist>
+        <duration>4:38</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/eminem.png</thumb_url>
+    </song>
+	<song>
+        <id>13</id>    
+        <title>Stranger In Moscow</title>
+        <artist>Michael Jackson</artist>
+        <duration>5:44</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/mj.png</thumb_url>
+    </song>
+	<song>
+        <id>14</id>    
+        <title>Love The Way You Lie</title>
+        <artist>Rihanna</artist>
+        <duration>4:23</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/rihanna.png</thumb_url>
+    </song>
+	<song>
+        <id>15</id>    
+        <title>Khwaja Mere Khwaja</title>
+        <artist>A R Rehman</artist>
+        <duration>6:58</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/arrehman.png</thumb_url>
+    </song>
+	<song>
+        <id>16</id>    
+        <title>All My Days</title>
+        <artist>Alexi Murdoch</artist>
+        <duration>4:47</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/alexi_murdoch.png</thumb_url>
+    </song>
+	<song>
+        <id>17</id>    
+        <title>Life For Rent</title>
+        <artist>Dido</artist>
+        <duration>3:41</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/dido.png</thumb_url>
+    </song>
+	<song>
+        <id>18</id>    
+        <title>Love To See You Cry</title>
+        <artist>Enrique Iglesias</artist>
+        <duration>4:07</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/enrique.png</thumb_url>
+    </song>	
+	<song>
+        <id>19</id>    
+        <title>The Good, The Bad And The Ugly</title>
+        <artist>Ennio Morricone</artist>
+        <duration>2:42</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/ennio.png</thumb_url>
+    </song>
+	<song>
+        <id>20</id>    
+        <title>Show me the meaning</title>
+        <artist>Backstreet Boys</artist>
+        <duration>3:56</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/backstreet_boys.png</thumb_url>
+    </song>
+	<song>
+        <id>21</id>    
+        <title>Someone Like You</title>
+        <artist>Adele</artist>
+        <duration>4:47</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/adele.png</thumb_url>
+    </song>
+	<song>
+        <id>22</id>    
+        <title>Space Bound</title>
+        <artist>Eminem</artist>
+        <duration>4:38</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/eminem.png</thumb_url>
+    </song>
+	<song>
+        <id>23</id>    
+        <title>Stranger In Moscow</title>
+        <artist>Michael Jackson</artist>
+        <duration>5:44</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/mj.png</thumb_url>
+    </song>
+	<song>
+        <id>24</id>    
+        <title>Love The Way You Lie</title>
+        <artist>Rihanna</artist>
+        <duration>4:23</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/rihanna.png</thumb_url>
+    </song>
+	<song>
+        <id>25</id>    
+        <title>Khwaja Mere Khwaja</title>
+        <artist>A R Rehman</artist>
+        <duration>6:58</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/arrehman.png</thumb_url>
+    </song>
+	<song>
+        <id>26</id>    
+        <title>All My Days</title>
+        <artist>Alexi Murdoch</artist>
+        <duration>4:47</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/alexi_murdoch.png</thumb_url>
+    </song>
+	<song>
+        <id>27</id>    
+        <title>Life For Rent</title>
+        <artist>Dido</artist>
+        <duration>3:41</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/dido.png</thumb_url>
+    </song>
+	<song>
+        <id>28</id>    
+        <title>Love To See You Cry</title>
+        <artist>Enrique Iglesias</artist>
+        <duration>4:07</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/enrique.png</thumb_url>
+    </song>	
+	<song>
+        <id>29</id>    
+        <title>The Good, The Bad And The Ugly</title>
+        <artist>Ennio Morricone</artist>
+        <duration>2:42</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/ennio.png</thumb_url>
+    </song>
+	<song>
+        <id>30</id>    
+        <title>Show me the meaning</title>
+        <artist>Backstreet Boys</artist>
+        <duration>3:56</duration>
+		<thumb_url>http://192.168.1.103:8080/museum_server/source/picture/backstreet_boys.png</thumb_url>
+    </song>
+    -->
+</music>
